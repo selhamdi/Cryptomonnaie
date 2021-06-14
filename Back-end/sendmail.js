@@ -11,8 +11,8 @@ async function sendMail(email,subject,text,output) {
         port: 535,
         secure: false,
         auth: {
-          user: 'salimaeii1997@gmail.com',
-          pass: '0649018266sa',
+          user: '',
+          pass: '',
         },
         tls: {
           rejectUnauthorized: false,
